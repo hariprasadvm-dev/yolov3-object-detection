@@ -101,9 +101,11 @@ Detected outputs are saved in the `detections/` folder.
 - Bounding boxes drawn over detected objects
 - Works with both image and video inputs
 
-![alt text](detections/detection_1.jpg)
+git push -u origin main
 
-![alt text](detections/detection_2.jpg)
+![detection_1](https://github.com/user-attachments/assets/2e4e9300-8a31-4964-8217-00fe2f12ac6c)
+
+
 
 <video controls src="detection.mp4" title="Title"></video>
 
