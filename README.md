@@ -106,5 +106,6 @@ Detected outputs are saved in the `detections/` folder.
 
 ![detection_2](https://github.com/user-attachments/assets/cc5440d6-19d9-46dd-b724-a67b44b824e9)
 
+![Image](https://github.com/user-attachments/assets/5bdb34e4-8deb-4277-aafe-d535c3062baf)
 
 ---
